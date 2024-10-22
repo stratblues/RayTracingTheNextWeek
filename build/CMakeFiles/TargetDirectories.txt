@@ -1,0 +1,3 @@
+C:/RayTracingNextWeek/RayTracerNextWeek/build/CMakeFiles/RayTracerNextWeek.dir
+C:/RayTracingNextWeek/RayTracerNextWeek/build/CMakeFiles/ALL_BUILD.dir
+C:/RayTracingNextWeek/RayTracerNextWeek/build/CMakeFiles/ZERO_CHECK.dir
